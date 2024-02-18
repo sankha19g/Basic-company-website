@@ -48,7 +48,7 @@
   .nav-tabs>li {
     float: left;
     margin-bottom: -25px;
-    padding: 38px;
+    padding: 37px;
 }
 img.img-fluid {
   margin-top: -46px;
@@ -60,5 +60,12 @@ img.img-fluid {
 }}
 
 i.fa-solid.fa-phone {
-  font-size: 25px;
+  font-size: 15px;
+}
+
+.container {
+  padding-right: 13px;
+  padding-left: 17px;
+  margin-right: 43px;
+  margin-left: 195px;
 }
